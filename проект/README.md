@@ -13,4 +13,4 @@
 - seaborn
 - matplotlib
 
-[Презентация(.pptx)](https://clck.ru/3FzLhg)
+[Презентация(pptx)](https://clck.ru/3FzLhg)
