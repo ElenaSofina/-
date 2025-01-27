@@ -1,6 +1,6 @@
 # Анализ показателей
 
-[ссылка](https://github.com/ElenaSofina/Portfolio/blob/main/проект/Анализ_показателей.ipynb)
+[ipynb](https://github.com/ElenaSofina/Portfolio/blob/main/проект/Анализ_показателей.ipynb)
 
 **Описание:** Данные по заказам сети кофеен за 11 месяцев 2024 года.
 
