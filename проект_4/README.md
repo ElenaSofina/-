@@ -15,3 +15,5 @@
 - datetime
 - scipy
 -statsmodels
+
+[Презентация(.pptx)](https://clck.ru/3FzGZQ)
