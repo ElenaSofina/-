@@ -1,6 +1,6 @@
 # Выявление профилей потребления
 
-[.ipynb](https://github.com/ElenaSofina/Portfolio/blob/main/проект_4/Выявление_профилей_потребления.ipynb)
+[ipynb](https://github.com/ElenaSofina/Portfolio/blob/main/проект_4/Выявление_профилей_потребления.ipynb)
 
 **Описание проекта:** Датасет описывает транзакции интернет-магазина товаров для дома и быта «Пока все ещё тут».
 
@@ -16,4 +16,4 @@
 - scipy
 -statsmodels
 
-[Презентация(.pptx)](https://clck.ru/3FzGZQ)
+[Презентация(pptx)](https://clck.ru/3FzGZQ)
