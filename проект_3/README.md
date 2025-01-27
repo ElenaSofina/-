@@ -13,3 +13,5 @@
 - plotly
 - json
 - folium
+
+[Презентация(.pptx)](https://clck.ru/3FzGze)
